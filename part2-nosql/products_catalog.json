@@ -1,0 +1,210 @@
+[
+    {
+        "product_id": "ELEC002",
+        "name": "Sony WH-1000XM5",
+        "category": "Electronics",
+        "price": 29990.00,
+        "stock": 85,
+        "specs": {
+            "type": "Over-ear",
+            "anc": "Yes"
+        },
+        "reviews": [
+            {
+                "user": "U002",
+                "rating": 5,
+                "comment": "Best silence ever.",
+                "date": "2025-05-10"
+            },
+            {
+                "user": "U003",
+                "rating": 4,
+                "comment": "Great sound.",
+                "date": "2025-06-12"
+            }
+        ]
+    },
+    {
+        "product_id": "ELEC003",
+        "name": "Logitech MX Master 3S",
+        "category": "Electronics",
+        "price": 9495.00,
+        "stock": 200,
+        "specs": {
+            "dpi": "8000",
+            "type": "Wireless"
+        },
+        "reviews": [
+            {
+                "user": "U004",
+                "rating": 5,
+                "comment": "Perfect for productivity.",
+                "date": "2025-08-15"
+            }
+        ]
+    },
+    {
+        "product_id": "ELEC004",
+        "name": "Dell UltraSharp 27",
+        "category": "Electronics",
+        "price": 45000.00,
+        "stock": 30,
+        "specs": {
+            "resolution": "4K",
+            "panel": "IPS"
+        },
+        "reviews": [
+            {
+                "user": "U005",
+                "rating": 3,
+                "comment": "Good but expensive.",
+                "date": "2025-09-01"
+            },
+            {
+                "user": "U006",
+                "rating": 4,
+                "comment": "Colors are accurate.",
+                "date": "2025-09-10"
+            }
+        ]
+    },
+    {
+        "product_id": "ELEC005",
+        "name": "Apple iPad Air",
+        "category": "Electronics",
+        "price": 54900.00,
+        "stock": 50,
+        "specs": {
+            "chip": "M2",
+            "storage": "128GB"
+        },
+        "reviews": [
+            {
+                "user": "U007",
+                "rating": 5,
+                "comment": "Stunning display.",
+                "date": "2025-10-05"
+            }
+        ]
+    },
+    {
+        "product_id": "ELEC006",
+        "name": "Keychron K2 Keyboard",
+        "category": "Electronics",
+        "price": 8500.00,
+        "stock": 120,
+        "specs": {
+            "switches": "Gateron Brown",
+            "backlight": "RGB"
+        },
+        "reviews": [
+            {
+                "user": "U008",
+                "rating": 4,
+                "comment": "Great tactile feel.",
+                "date": "2025-11-20"
+            }
+        ]
+    },
+    {
+        "product_id": "HOME001",
+        "name": "Dyson V15 Vacuum",
+        "category": "Home Appliances",
+        "price": 65900.00,
+        "stock": 25,
+        "specs": {
+            "suction": "230AW",
+            "type": "Cordless"
+        },
+        "reviews": [
+            {
+                "user": "U009",
+                "rating": 5,
+                "comment": "Cleaning is fun now.",
+                "date": "2025-06-20"
+            }
+        ]
+    },
+    {
+        "product_id": "HOME002",
+        "name": "Instant Pot Duo 7-in-1",
+        "category": "Home Appliances",
+        "price": 12500.00,
+        "stock": 150,
+        "specs": {
+            "capacity": "6L",
+            "power": "1000W"
+        },
+        "reviews": [
+            {
+                "user": "U010",
+                "rating": 4,
+                "comment": "Very versatile.",
+                "date": "2025-07-15"
+            },
+            {
+                "user": "U011",
+                "rating": 5,
+                "comment": "Life saver in the kitchen.",
+                "date": "2025-07-20"
+            }
+        ]
+    },
+    {
+        "product_id": "HOME003",
+        "name": "Philips Air Fryer XXL",
+        "category": "Home Appliances",
+        "price": 18999.00,
+        "stock": 60,
+        "specs": {
+            "capacity": "7.3L",
+            "tech": "Rapid Air"
+        },
+        "reviews": [
+            {
+                "user": "U012",
+                "rating": 2,
+                "comment": "Too bulky for my kitchen.",
+                "date": "2025-08-22"
+            }
+        ]
+    },
+    {
+        "product_id": "HOME004",
+        "name": "Blueair Air Purifier",
+        "category": "Home Appliances",
+        "price": 14500.00,
+        "stock": 90,
+        "specs": {
+            "area": "250 sqft",
+            "filter": "HEPA"
+        },
+        "reviews": [
+            {
+                "user": "U013",
+                "rating": 4,
+                "comment": "Quiet and effective.",
+                "date": "2025-09-05"
+            }
+        ]
+    },
+    {
+        "product_id": "HOME005",
+        "name": "Nespresso Vertuo",
+        "category": "Home Appliances",
+        "price": 22000.00,
+        "stock": 40,
+        "specs": {
+            "type": "Capsule",
+            "pressure": "Centrifusion"
+        },
+        "reviews": [
+            {
+                "user": "U014",
+                "rating": 5,
+                "comment": "Cafe quality coffee at home.",
+                "date": "2025-10-10"
+            }
+        ]
+    }
+]
