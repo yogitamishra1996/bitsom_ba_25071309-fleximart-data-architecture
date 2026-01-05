@@ -1,0 +1,8 @@
+FLEXIMART DATA QUALITY REPORT
+=============================
+Generated on: 2026-01-04 22:48:40
+
+1. Records processed: Customers(26), Products(20), Sales(41)
+2. Duplicates removed: 5
+3. Nulls/Errors handled: 0
+4. Successfully loaded: 67

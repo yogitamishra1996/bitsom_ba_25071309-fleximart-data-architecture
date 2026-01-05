@@ -1,0 +1,11 @@
+# Data Manipulation
+pandas==2.2.0
+
+# Database Connectivity
+SQLAlchemy==2.0.25
+psycopg2-binary==2.9.9
+
+# Standard Library imports (included with Python)
+# datetime
+# re
+# logging
